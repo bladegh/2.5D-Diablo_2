@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCreator.Runtime.Core", "GameCreator.Runtime.Core.csproj", "{806ABC8A-5626-6E68-138A-07B76CDD6041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCreator.Tests.Core", "GameCreator.Tests.Core.csproj", "{80D07F8B-82E9-4960-A6A4-A0EF59CF6C5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCreator.Editor.Core", "GameCreator.Editor.Core.csproj", "{834E6C65-2C71-19D2-C48E-2197FBDCBF98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{806ABC8A-5626-6E68-138A-07B76CDD6041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806ABC8A-5626-6E68-138A-07B76CDD6041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806ABC8A-5626-6E68-138A-07B76CDD6041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806ABC8A-5626-6E68-138A-07B76CDD6041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D07F8B-82E9-4960-A6A4-A0EF59CF6C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D07F8B-82E9-4960-A6A4-A0EF59CF6C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D07F8B-82E9-4960-A6A4-A0EF59CF6C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D07F8B-82E9-4960-A6A4-A0EF59CF6C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{834E6C65-2C71-19D2-C48E-2197FBDCBF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834E6C65-2C71-19D2-C48E-2197FBDCBF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834E6C65-2C71-19D2-C48E-2197FBDCBF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834E6C65-2C71-19D2-C48E-2197FBDCBF98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
